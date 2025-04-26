@@ -9,6 +9,6 @@ export default defineConfig({
   server: "./server.js",
   serverPlatform: "vercel",
   future: {
-    // 保留你的 future flags
+    // 你的 future flags 如果有可以放这里
   }
 });
