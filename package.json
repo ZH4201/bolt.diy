@@ -1,5 +1,3 @@
-**1. package.json（完整修改后的内容）**
-```json
 {
   "name": "bolt",
   "description": "An AI Agent",
@@ -177,7 +175,3 @@
   },
   "packageManager": "pnpm@9.4.0"
 }
-```
-
-其余的 `remix.config.js`、`server.js`、`vercel.json` 保持画布中已给出的内容，即可一并部署到 Vercel。
-
